@@ -12,4 +12,4 @@ and types as well as how they can be glued together to achieve pure functions th
 3. [MD](presentation.md)
 4. [SpeakerDeck](https://speakerdeck.com/raulraja/functional-programming-patterns-for-the-pragmatic-programmer-v2)
 
-The main difference between this talk and [v1](https://github.com/47deg/func-architecture-v2) is the use of Coproducts and implicits for DI.
+The main difference between this talk and [v1](https://github.com/47deg/func-architecture) is the use of Coproducts and implicits for DI.
