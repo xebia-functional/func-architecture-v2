@@ -476,5 +476,6 @@ http://www.47deg.com/blog/fp-for-the-average-joe-part-2-scalaz-monad-transformer
 @raulraja
 @47deg
 http://github.com/47deg/func-architecture-v2
+https://speakerdeck.com/raulraja/functional-programming-patterns-v2
 
 ---
